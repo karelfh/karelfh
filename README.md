@@ -4,7 +4,6 @@ Hi 👋 My name is Karel
 * 🌍  I'm based in <a href="https://www.google.com/maps/place/Prague/@50.0596696,14.4656239,12z" target="_blank" rel="noreferrer">Prague | Czechia</a>
 * 🚀  I'm currently working on company intranet website with [Astro](http://astro.build).
 * 🧠  I'm learning too much at once (C# .NET and Python).
-* 🤝  I'm open to collaborating on anything fun \\(^.^)/
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=karelfh&theme=nord&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
