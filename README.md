@@ -39,4 +39,4 @@ Hi 👋 My name is Karel
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karelfh&theme=nord&hide_border=true&border_radius=5&hide=scss&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=karelfh&theme=nord&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karelfh&layout=compact&theme=nord&hide_border=true&border_radius=5&count_private=true&hide=scss)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=karelfh&theme=nord&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
