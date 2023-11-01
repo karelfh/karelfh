@@ -7,7 +7,7 @@ Hi 👋 My name is Karel
 
 ## Languages and tools
 
-[![My Skills](https://skillicons.dev/icons?i=ts,swift,cs,python,,react,nextjs,postgres,,ps,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,swift,cs,python,,react,nextjs,postgres,,ps,ai)](https://skillicons.dev)]
 
 ## Stats
 
