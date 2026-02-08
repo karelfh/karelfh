@@ -32,9 +32,3 @@ A simple hydration tracker designed for speed and Apple ecosystem integration. L
 ## Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=karelfh&theme=nord&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)
 ![Top Langs](https://top-languages-git-main-karelfh.vercel.app/api/top-langs/?username=karelfh&hide=javascript,scss&layout=compact&hide_border=true&border_radius=5&theme=nord)
-
-## Connect
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/karel-franti%C5%A1ek-houf/)
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/KarelFH/)
-[![My Skills](https://skillicons.dev/icons?i=htmx)](https://karelhouf.cz/)
